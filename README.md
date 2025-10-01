@@ -1,4 +1,4 @@
-# 🛡️ Network Security Final Project  
+# 🛡️ NTI's Network Security Final Project  
 
 ---
 
